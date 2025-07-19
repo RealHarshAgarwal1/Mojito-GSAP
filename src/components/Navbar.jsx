@@ -13,6 +13,7 @@ export const Navbar = () => {
 
         navTween.fromto('nav',{backgroundColor:'transparent'},{
             backgroundColor:'#00000050'
+
         });
     })
     return (
